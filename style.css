@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#icon {
+  display: flex;
+  justify-content: flex-end;
+}
+#time-section {
+  justify-content: flex-start;
+}
+main {
+  display: flex;
+  height: 85vh;
+  justify-content: center;
+  align-items: center;
+}
+footer {
+  background-color: aqua;
+}
